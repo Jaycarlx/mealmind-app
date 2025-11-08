@@ -65,7 +65,7 @@ Every suggestion includes macros and adapts to your fitness goals (weight loss, 
 
 ##  How It Works
 
-1. Photograph your pantry/fridge or ingredients store
+1. Photograph your pantry/fridge or ingredients storage
 2. AI identifies ingredients and quantities
 3. Tell MealMind what you're craving (or say "surprise me")
 4. Get 3 meal suggestions with recipes and macros
@@ -92,6 +92,6 @@ Plus, **behavior shifted**: Post-pandemic, 67% more people cook at home regularl
 - **3x weekly active usage** (users return multiple times per week)
 
 
-## 🤝 Contributing
+##  Contributing
 
 Built by [@jaycarlx](https://github.com/jaycarlx) for HNG Internship Stage 4 PM Task
